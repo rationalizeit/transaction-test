@@ -1,0 +1,8 @@
+default:
+  api_login_id: 89YC75CpdwGA89YC75CpdwGA
+  api_transaction_key: 6e92v2VrQHFn8d5n
+  merchant_hash_value: 
+
+development: 
+test: 
+production: 
